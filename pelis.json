@@ -1,0 +1,22 @@
+[{
+  "title": "Shrek",
+  "rating":10,
+  "tags": "animación"
+},
+{
+ "title": "Atlantis",
+ "rating": 9,
+ "tags":["animación", "aventura"]
+},
+{
+ "title": "El conjuro",
+ "rating":7,
+ "tags":"terror"
+},
+{
+ "title": "La guardería de papá",
+ "rating":5,
+ "tags":"comedia"
+}
+
+]
